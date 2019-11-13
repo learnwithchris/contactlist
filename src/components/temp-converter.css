@@ -1,0 +1,33 @@
+* {
+  margin: 5px;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2e2e2e;
+  font-family: 'Arial, Helvetica, sans-serif';
+  color:white;
+}
+
+
+
+#focusedInputed{
+   border-radius: 20px;
+   font-size: 1.3rem;
+  font-weight: 300;
+  text-align:center;
+  width:400px;
+  
+}
+.hot{
+  color:#e60000;
+}
+
+.cold{
+  color:#3399ff;
+}
+
+.normal{
+  color:#ff9933;
+}
